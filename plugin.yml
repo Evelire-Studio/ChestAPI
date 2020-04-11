@@ -1,0 +1,6 @@
+name: ChestAPI
+main: chestapi\ChestAPI
+version: "0.1"
+author: "Evelire Studio"
+api: [3.0.0]
+website: https://vk.com/evelirestudio
