@@ -14,3 +14,5 @@ use chestapi\ChestAPI;
 $chest = new Position(100, 100, 100, $player->getLevel());
 ChestAPI::open($chest);
 ```
+
+Download: [Releases](https://github.com/Evelire-Studio/ChestAPI/releases)
